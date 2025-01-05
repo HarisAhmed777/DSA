@@ -1,0 +1,5 @@
+in Maths we use Decimal Number System (0-9) also known as Base 10
+Computers only use Binary Number System (0-1) also know as Base 2
+Other Numbers Systems:
+HexaDecimal Number System (0-16) also known as Base 16
+Octal Number System (0-8) also known as Base 8

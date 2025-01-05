@@ -1,0 +1,1 @@
+LinearSearch time complexity = O(n)
