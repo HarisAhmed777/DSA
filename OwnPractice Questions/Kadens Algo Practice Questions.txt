@@ -1,0 +1,35 @@
+Kadens Algo Practice Questions:
+1. Maximum Subarray Sum
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+Example: Input: nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Output: 6
+Explanation: The subarray [4, -1, 2, 1] has the largest sum = 6.
+
+2. Maximum Circular Subarray Sum
+Find the maximum possible sum of a circular subarray of the given array.
+
+Example: Input: nums = [5, -3, 5]
+Output: 10
+Explanation: The subarray [5, 5] wraps around the end of the array.
+
+3. Smallest Contiguous Subarray With Sum at Least K
+Given an array of positive integers nums and a positive integer k, find the minimal length of a contiguous subarray of which the sum is greater than or equal to k. Return 0 if no such subarray exists.
+
+Example: Input: nums = [2, 3, 1, 2, 4, 3], k = 7
+Output: 2
+Explanation: The subarray [4, 3] has the minimal length under the problem constraint.
+
+4. Longest Subarray with Sum K
+Given an array of integers nums and an integer k, find the length of the longest contiguous subarray that sums to k.
+
+Example: Input: nums = [1, 2, 3, 7, 5], k = 12
+Output: 2
+Explanation: The subarray [7, 5] sums to 12.
+
+5. Maximum Product Subarray
+Given an integer array nums, find a contiguous non-empty subarray within the array that has the largest product.
+
+Example: Input: nums = [2, 3, -2, 4]
+Output: 6
+Explanation: The subarray [2, 3] has the largest product = 6.
